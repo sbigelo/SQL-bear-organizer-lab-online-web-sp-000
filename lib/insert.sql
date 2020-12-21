@@ -6,4 +6,3 @@ INSERT INTO bears VALUES (5, "Melissa", 236, "F", "green", 0);
 INSERT INTO bears VALUES (6, "Grinch", 12, "M", "orange", 1);
 INSERT INTO bears VALUES (7, "Wendy", 12, "M", "pruple", 1);
 INSERT INTO bears VALUES (8, nil, 13, "F", "yellow", 0);
-
